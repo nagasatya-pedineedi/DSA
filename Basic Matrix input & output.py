@@ -13,4 +13,3 @@ print("Printing")
 for i in range(m):
     for j in range(n):
         print("value in arr[{}][{}]: {}".format(i,j, arr[i][j]))
-    
