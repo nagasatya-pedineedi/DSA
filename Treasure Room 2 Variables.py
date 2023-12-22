@@ -2,7 +2,6 @@ n, w = map(int, input().split())
 arr = list(map(int, input().split()))
 
 block_indexes = {}
-
 for i, block in enumerate(arr):
     diff = w - block
     if diff in block_indexes:
