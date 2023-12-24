@@ -13,8 +13,3 @@ while r>=0 and l<=n-1:
     else:
         l=l+1
 print(res)
-    
-
-
-        
-    
