@@ -15,4 +15,3 @@ for i in range(m):
         if i==0 or i==m-1 or j==0 or j==n-1:
            result.append(arr[i][j])
 print("Result: ", result)
-                    
